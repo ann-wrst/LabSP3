@@ -1,0 +1,9 @@
+function _MyFuturesFn_(){
+ var i=0x98375;
+ let a = 1.5;
+ var variable="test";
+ let 1qej='wfe';
+ let $hke = `efvjlk`
+ return null;
+ }
+ Alert(_MyFuturesFn_());
